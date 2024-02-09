@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Meghana Katraju! <br/> <a href="www.linkedin.com/in/meghana-katraju-568934211/">Software Professional</a>, </h1>
 
-<!--
-**MeghanaKatraju31/MeghanaKatraju31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
+->📄 <b>MY PROJECTS UNDER: </b><br/>
+<br/>
+-
+- <b>Web Data Management </b><br/>
+-
+- <b>Machine Learning </b><br/>
+-
+- <b>Distributed Sytems</b><br/>
+-
+- <b>Design Analysis of Algorithms</b><br/>
+-
+- <b>Artificial Intelligence</b><br/>
+-
+-  <b>Data Mining</b><br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me: </h2>
+[Email]:  meghana.katraju@gmail.com<br/>
+<br/>
+[linkedin]: https://www.linkedin.com/in/meghana-katraju-568934211
+-
+

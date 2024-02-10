@@ -13,8 +13,8 @@
 - <b>Design Analysis of Algorithms</b><br/>
 -
 - <b>Artificial Intelligence</b><br/>
--
--  <b>Data Mining</b><br/>
+
+
 
 
 <h2> 🤳 Connect with me: </h2>

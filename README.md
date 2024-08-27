@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Hi, I'm Meghana Katraju! <br/>
-        <href>Connect with me</href>
+        <href>Software Professional</href>
     </h1>
     <p>
         I’m a Computer Science graduate student at the University of Texas at Arlington with a strong background in technology and hands-on experience across various Projects.

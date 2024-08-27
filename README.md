@@ -10,7 +10,7 @@
         <a href="https://www.linkedin.com/in/meghana-katraju-568934211/">Connect with me on LinkedIn</a>
     </h1>
     <p>
-        I’m a Computer Science graduate student at the University of Texas at Arlington with a strong background in technology and hands-on experience across various internships. I've worked with AWS on cloud architecture, Path Creators on robotics, Indian Servers Company on cybersecurity, and IBM on data science and machine learning.
+        I’m a Computer Science graduate student at the University of Texas at Arlington with a strong background in technology and hands-on experience across various Projects.
     </p>
     <p>
         I’m passionate about technology and eager to contribute to innovative projects. Connect with me on LinkedIn or reach out for collaboration opportunities!

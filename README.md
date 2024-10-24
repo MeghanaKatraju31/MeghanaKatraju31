@@ -9,9 +9,7 @@
     <h1>Hi, I'm Meghana Katraju! <br/>
         <href>Software Professional</href>
     </h1>
-    <p>
-        I’m a Computer Science graduate student at the University of Texas at Arlington with a strong background in technology and hands-on experience across various Projects.
-    </p>
+    
     <p>
         I’m passionate about technology and eager to contribute to innovative projects. Connect with me on LinkedIn or reach out for collaboration opportunities!
     </p>

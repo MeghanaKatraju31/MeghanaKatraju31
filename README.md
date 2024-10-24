@@ -10,10 +10,7 @@
         <href>Software Professional</href>
     </h1>
     
-    <p>
-        I’m passionate about technology and eager to contribute to innovative projects. Connect with me on LinkedIn or reach out for collaboration opportunities!
-    </p>
-
+    
    **👨‍💻 My Software Development Projects are under:**
 
 - Web Data Management
